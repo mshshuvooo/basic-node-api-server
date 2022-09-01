@@ -1,243 +1,239 @@
-{
-    "videos": [
-        {
-          "id": 1,
-          "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
-          "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
-          "author": "Learn with Sumit",
-          "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-          "date": "May 10, 2022",
-          "duration": "10:12",
-          "views": "2.1k",
-          "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
-          "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
-          "tags": [
-            "javascript",
-            "react",
-            "tips"
-          ],
-          "unlikes": 8,
-          "likes": 28
-        },
-        {
-          "id": 2,
-          "title": "Complete outline to become a junior web developer Jhankar Mahbub",
-          "description": "এই রুটিনটা নিজে নিজে ফিনিশ করতে পারলে বেষ্ট।",
-          "author": "Jhankar Mahbub",
-          "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s800-c-k-c0x00ffffff-no-rj",
-          "date": "Jun 13, 2021",
-          "duration": "12:02",
-          "views": "50k",
-          "link": "https://www.youtube.com/embed/Cxf5sOXG0w0",
-          "thumbnail": "https://img.youtube.com/vi/Cxf5sOXG0w0/maxresdefault.jpg",
-          "tags": [
-            "javascript",
-            "react",
-            "tips"
-          ],
-          "unlikes": 0,
-          "likes": 2800
-        },
-        {
-          "id": 3,
-          "title": "Introduction - Headless Wordpress | Next.js | WPGraphQL | React | ACF",
-          "description": "Wordpress কে ব্যাকএন্ড আর React কে ফ্রন্টএন্ড এ ব্যবহার করে ওয়েবসাইট বানানোর ইচ্ছে আমার অনেক দিন থেকেই। তাই সেটা নিয়ে একটু ঘাঁটাঘাঁটি শুরু করলাম। আর সেগুলোর কিছু ভিডিও বানিয়ে Youtube এ আপলোড করে দিলাম। এতে আমার শেখাটাও আরও মজবুত হবে আশাকরি।",
-          "author": "Shahadat Shuvo",
-          "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_ZggtpzG-okXBr2bE952kYl9xIMoScik1TP6IJnXg=s800-c-k-c0x00ffffff-no-rj",
-          "date": "Mar 28, 2021",
-          "duration": "1:17",
-          "views": "772",
-          "link": "https://www.youtube.com/embed/2iPANmZK75s",
-          "thumbnail": "https://img.youtube.com/vi/2iPANmZK75s/maxresdefault.jpg",
-          "tags": [
-            "wordpress",
-            "react",
-            "next js"
-          ],
-          "likes": 30,
-          "unlikes": 4
-        },
-        {
-          "id": 4,
-          "title": "যেকোন জিনিস ইফেক্টিভলি শেখার ৫ টেকনিক",
-          "description": "এই রুটিনটা নিজে নিজে ফিনিশ করতে পারলে বেষ্ট।",
-          "author": "Jhankar Mahbub",
-          "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s800-c-k-c0x00ffffff-no-rj",
-          "date": "May 31, 2021",
-          "duration": "06:43",
-          "views": "20k",
-          "link": "https://www.youtube.com/embed/L5KayItmIRY",
-          "thumbnail": "https://img.youtube.com/vi/L5KayItmIRY/maxresdefault.jpg",
-          "tags": [
-            "tips"
-          ],
-          "unlikes": 0,
-          "likes": 800
-        },
-        {
-          "id": 5,
-          "title": "Elementor Unlimited Nested Inner Section Without Any Extra Plugin",
-          "description": "Make Unlimited Nested Inner Section in Elementor Page Builder Without Any Extra Plugin.",
-          "author": "Shahadat Shuvo",
-          "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_ZggtpzG-okXBr2bE952kYl9xIMoScik1TP6IJnXg=s800-c-k-c0x00ffffff-no-rj",
-          "date": "Feb 19, 2020",
-          "duration": "1:50",
-          "views": "63",
-          "link": "https://www.youtube.com/embed/vkE0OH95N5Q",
-          "thumbnail": "https://img.youtube.com/vi/vkE0OH95N5Q/maxresdefault.jpg",
-          "tags": [
-            "wordpress",
-            "elementor"
-          ],
-          "likes": 8,
-          "unlikes": 0
-        },
-        {
-          "id": 6,
-          "title": "VS Code Snippets - Boost your productivity with User Snippets",
-          "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
-          "author": "Learn with Sumit",
-          "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-          "date": "April 25, 2022",
-          "duration": "10:12",
-          "views": "2.1k",
-          "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
-          "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
-          "tags": [
-            "vscode",
-            "tips"
-          ],
-          "likes": 2,
-          "unlikes": 0
-        },
-        {
-          "id": 7,
-          "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
-          "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
-          "author": "Learn with Sumit",
-          "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-          "date": "March 11, 2022",
-          "duration": "10:12",
-          "views": "2.1k",
-          "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
-          "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
-          "tags": [
-            "tailwind",
-            "css"
-          ],
-          "likes": 0,
-          "unlikes": 0
-        },
-        {
-          "id": 8,
-          "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
-          "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
-          "author": "Learn with Sumit",
-          "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-          "date": "Jan 06, 2022",
-          "duration": "10:12",
-          "views": "2.1k",
-          "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
-          "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
-          "tags": [
-            "debounce",
-            "javascript",
-            "tips"
-          ],
-          "likes": 0,
-          "unlikes": 0
-        },
-        {
-          "id": 9,
-          "title": "SASS Tutorial in English - Overview of SASS",
-          "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
-          "author": "Learn with Sumit",
-          "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-          "date": "Nov 22, 2021",
-          "duration": "10:12",
-          "views": "2.1k",
-          "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
-          "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
-          "tags": [
-            "sass",
-            "css",
-            "ui"
-          ],
-          "likes": 7,
-          "unlikes": 2
-        },
-        {
-          "id": 10,
-          "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
-          "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
-          "author": "Learn with Sumit",
-          "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-          "date": "Nov 08, 2021",
-          "duration": "10:12",
-          "views": "2.1k",
-          "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
-          "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
-          "tags": [
-            "react",
-            "router",
-            "javascript"
-          ],
-          "likes": 0,
-          "unlikes": 0
-        },
-        {
-          "id": 11,
-          "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
-          "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
-          "author": "Learn with Sumit",
-          "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-          "date": "Oct 15, 2021",
-          "duration": "10:12",
-          "views": "2.1k",
-          "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
-          "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
-          "tags": [
-            "tailwind",
-            "css",
-            "ui"
-          ],
-          "likes": 0,
-          "unlikes": 0
-        },
-        {
-          "id": 12,
-          "title": "পাইথন দিয়ে মেশিন লার্নিং এ হাতেখড়ি",
-          "description": "জাস্ট ছয় লাইন কোড দিয়ে তুমি সিম্পল একটা মেশিন লার্নিং ইউজ করে ফিউচার আইফোন এর প্রাইস প্রেডিক্ট করতে পারো। কত  যে সিম্পল সেটা নিজ চোখে না দেখলে বিশ্বাস করবে না।",
-          "author": "Jhankar Mahbub",
-          "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s800-c-k-c0x00ffffff-no-rj",
-          "date": "Oct 22, 2020",
-          "duration": "12:31",
-          "views": "38k",
-          "link": "https://www.youtube.com/embed/LrH2toZG9d0",
-          "thumbnail": "https://img.youtube.com/vi/LrH2toZG9d0/maxresdefault.jpg",
-          "tags": [
-            "Python",
-            "tips"
-          ],
-          "unlikes": 0,
-          "likes": 1700
-        },
-        {
-          "id": 13,
-          "title": "নিজে নিজে বানিয়ে ফেলো স্মার্ট স্ক্যানার । কি মজা ! জাস্ট ২৫ লাইন পাইথন এর কোড লিখে",
-          "description": "পাইথন স্মার্ট স্ক্যানার",
-          "author": "Jhankar Mahbub",
-          "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s800-c-k-c0x00ffffff-no-rj",
-          "date": "Sep 1, 2022",
-          "duration": "45:07",
-          "views": "3.1k",
-          "link": "https://www.youtube.com/embed/XFZyqeTnVuk",
-          "thumbnail": "https://img.youtube.com/vi/XFZyqeTnVuk/maxresdefault.jpg",
-          "tags": [
-            "Python"
-          ],
-          "unlikes": 0,
-          "likes": 286
-        }
-      ]
-}
+  {
+    "id": 1,
+    "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+    "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+    "author": "Learn with Sumit",
+    "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+    "date": "May 10, 2022",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+    "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+    "tags": [
+      "javascript",
+      "react",
+      "tips"
+    ],
+    "unlikes": 8,
+    "likes": 28
+  },
+  {
+    "id": 2,
+    "title": "Complete outline to become a junior web developer Jhankar Mahbub",
+    "description": "এই রুটিনটা নিজে নিজে ফিনিশ করতে পারলে বেষ্ট।",
+    "author": "Jhankar Mahbub",
+    "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s800-c-k-c0x00ffffff-no-rj",
+    "date": "Jun 13, 2021",
+    "duration": "12:02",
+    "views": "50k",
+    "link": "https://www.youtube.com/embed/Cxf5sOXG0w0",
+    "thumbnail": "https://img.youtube.com/vi/Cxf5sOXG0w0/maxresdefault.jpg",
+    "tags": [
+      "javascript",
+      "react",
+      "tips"
+    ],
+    "unlikes": 0,
+    "likes": 2800
+  },
+  {
+    "id": 3,
+    "title": "Introduction - Headless Wordpress | Next.js | WPGraphQL | React | ACF",
+    "description": "Wordpress কে ব্যাকএন্ড আর React কে ফ্রন্টএন্ড এ ব্যবহার করে ওয়েবসাইট বানানোর ইচ্ছে আমার অনেক দিন থেকেই। তাই সেটা নিয়ে একটু ঘাঁটাঘাঁটি শুরু করলাম। আর সেগুলোর কিছু ভিডিও বানিয়ে Youtube এ আপলোড করে দিলাম। এতে আমার শেখাটাও আরও মজবুত হবে আশাকরি।",
+    "author": "Shahadat Shuvo",
+    "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_ZggtpzG-okXBr2bE952kYl9xIMoScik1TP6IJnXg=s800-c-k-c0x00ffffff-no-rj",
+    "date": "Mar 28, 2021",
+    "duration": "1:17",
+    "views": "772",
+    "link": "https://www.youtube.com/embed/2iPANmZK75s",
+    "thumbnail": "https://img.youtube.com/vi/2iPANmZK75s/maxresdefault.jpg",
+    "tags": [
+      "wordpress",
+      "react",
+      "next js"
+    ],
+    "likes": 30,
+    "unlikes": 4
+  },
+  {
+    "id": 4,
+    "title": "যেকোন জিনিস ইফেক্টিভলি শেখার ৫ টেকনিক",
+    "description": "এই রুটিনটা নিজে নিজে ফিনিশ করতে পারলে বেষ্ট।",
+    "author": "Jhankar Mahbub",
+    "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s800-c-k-c0x00ffffff-no-rj",
+    "date": "May 31, 2021",
+    "duration": "06:43",
+    "views": "20k",
+    "link": "https://www.youtube.com/embed/L5KayItmIRY",
+    "thumbnail": "https://img.youtube.com/vi/L5KayItmIRY/maxresdefault.jpg",
+    "tags": [
+      "tips"
+    ],
+    "unlikes": 0,
+    "likes": 800
+  },
+  {
+    "id": 5,
+    "title": "Elementor Unlimited Nested Inner Section Without Any Extra Plugin",
+    "description": "Make Unlimited Nested Inner Section in Elementor Page Builder Without Any Extra Plugin.",
+    "author": "Shahadat Shuvo",
+    "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_ZggtpzG-okXBr2bE952kYl9xIMoScik1TP6IJnXg=s800-c-k-c0x00ffffff-no-rj",
+    "date": "Feb 19, 2020",
+    "duration": "1:50",
+    "views": "63",
+    "link": "https://www.youtube.com/embed/vkE0OH95N5Q",
+    "thumbnail": "https://img.youtube.com/vi/vkE0OH95N5Q/maxresdefault.jpg",
+    "tags": [
+      "wordpress",
+      "elementor"
+    ],
+    "likes": 8,
+    "unlikes": 0
+  },
+  {
+    "id": 6,
+    "title": "VS Code Snippets - Boost your productivity with User Snippets",
+    "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+    "author": "Learn with Sumit",
+    "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+    "date": "April 25, 2022",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+    "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+    "tags": [
+      "vscode",
+      "tips"
+    ],
+    "likes": 2,
+    "unlikes": 0
+  },
+  {
+    "id": 7,
+    "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+    "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+    "author": "Learn with Sumit",
+    "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+    "date": "March 11, 2022",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+    "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+    "tags": [
+      "tailwind",
+      "css"
+    ],
+    "likes": 0,
+    "unlikes": 0
+  },
+  {
+    "id": 8,
+    "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+    "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+    "author": "Learn with Sumit",
+    "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+    "date": "Jan 06, 2022",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+    "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+    "tags": [
+      "debounce",
+      "javascript",
+      "tips"
+    ],
+    "likes": 0,
+    "unlikes": 0
+  },
+  {
+    "id": 9,
+    "title": "SASS Tutorial in English - Overview of SASS",
+    "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+    "author": "Learn with Sumit",
+    "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+    "date": "Nov 22, 2021",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+    "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+    "tags": [
+      "sass",
+      "css",
+      "ui"
+    ],
+    "likes": 7,
+    "unlikes": 2
+  },
+  {
+    "id": 10,
+    "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+    "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+    "author": "Learn with Sumit",
+    "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+    "date": "Nov 08, 2021",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+    "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+    "tags": [
+      "react",
+      "router",
+      "javascript"
+    ],
+    "likes": 0,
+    "unlikes": 0
+  },
+  {
+    "id": 11,
+    "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+    "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+    "author": "Learn with Sumit",
+    "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+    "date": "Oct 15, 2021",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+    "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+    "tags": [
+      "tailwind",
+      "css",
+      "ui"
+    ],
+    "likes": 0,
+    "unlikes": 0
+  },
+  {
+    "id": 12,
+    "title": "পাইথন দিয়ে মেশিন লার্নিং এ হাতেখড়ি",
+    "description": "জাস্ট ছয় লাইন কোড দিয়ে তুমি সিম্পল একটা মেশিন লার্নিং ইউজ করে ফিউচার আইফোন এর প্রাইস প্রেডিক্ট করতে পারো। কত  যে সিম্পল সেটা নিজ চোখে না দেখলে বিশ্বাস করবে না।",
+    "author": "Jhankar Mahbub",
+    "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s800-c-k-c0x00ffffff-no-rj",
+    "date": "Oct 22, 2020",
+    "duration": "12:31",
+    "views": "38k",
+    "link": "https://www.youtube.com/embed/LrH2toZG9d0",
+    "thumbnail": "https://img.youtube.com/vi/LrH2toZG9d0/maxresdefault.jpg",
+    "tags": [
+      "Python",
+      "tips"
+    ],
+    "unlikes": 0,
+    "likes": 1700
+  },
+  {
+    "id": 13,
+    "title": "নিজে নিজে বানিয়ে ফেলো স্মার্ট স্ক্যানার । কি মজা ! জাস্ট ২৫ লাইন পাইথন এর কোড লিখে",
+    "description": "পাইথন স্মার্ট স্ক্যানার",
+    "author": "Jhankar Mahbub",
+    "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s800-c-k-c0x00ffffff-no-rj",
+    "date": "Sep 1, 2022",
+    "duration": "45:07",
+    "views": "3.1k",
+    "link": "https://www.youtube.com/embed/XFZyqeTnVuk",
+    "thumbnail": "https://img.youtube.com/vi/XFZyqeTnVuk/maxresdefault.jpg",
+    "tags": [
+      "Python"
+    ],
+    "unlikes": 0,
+    "likes": 286
+  }

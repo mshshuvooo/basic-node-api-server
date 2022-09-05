@@ -4,11 +4,115 @@
         "name": "Salary from Google",
         "type": "income",
         "amount": 1000000
-    },
-    {
+    }, {
         "id": 2,
         "name": "Family Expenses",
         "type": "expense",
         "amount": 200000
+    }, {
+        "name": "Sell mobile ",
+        "type": "income",
+        "amount": 10000,
+        "id": 3
+    }, {
+        "name": "Sell old Books",
+        "type": "income",
+        "amount": 2000,
+        "id": 4
+    }, {
+        "name": "Sell Laptop",
+        "type": "income",
+        "amount": 20000,
+        "id": 5
+    }, {
+        "name": "Sell bike",
+        "type": "income",
+        "amount": 80000,
+        "id": 6
+    }, {
+        "name": "Buy new bike",
+        "type": "expense",
+        "amount": 150000,
+        "id": 7
+    }, {
+        "name": "buy wallet",
+        "type": "expense",
+        "amount": 500,
+        "id": 8
+    }, {
+        "name": "august salary",
+        "type": "income",
+        "amount": 50000,
+        "id": 9
+    }, {
+        "name": "sell camera",
+        "type": "income",
+        "amount": 15000,
+        "id": 10
+    }, {
+        "name": "sell monitor",
+        "type": "income",
+        "amount": 8000,
+        "id": 11
+    }, {
+        "name": "buy monitor stand",
+        "type": "expense",
+        "amount": 2000,
+        "id": 12
+    }, {
+        "name": "buy usb c cable",
+        "type": "expense",
+        "amount": 1000,
+        "id": 13
+    }, {
+        "name": "buy mobile charger",
+        "type": "expense",
+        "amount": 500,
+        "id": 14
+    }, {
+        "name": "Buy mouse",
+        "type": "expense",
+        "amount": 2000,
+        "id": 15
+    }, {
+        "name": "Sell old keyboard",
+        "type": "income",
+        "amount": 1500,
+        "id": 16
+    }, {
+        "name": "Buy mechanical Keyboard",
+        "type": "expense",
+        "amount": 10000,
+        "id": 17
+    }, {
+        "name": "Buy laptop charger",
+        "type": "expense",
+        "amount": 3000,
+        "id": 18
+    }, {
+        "name": "Buy new book",
+        "type": "expense",
+        "amount": 1000,
+        "id": 19
+    }, {
+        "name": "Buy food",
+        "type": "expense",
+        "amount": 2000,
+        "id": 20
+    }, {
+        "name": "Restaurant bill ",
+        "type": "expense",
+        "amount": 1500,
+        "id": 21
+    }, {
+        "name": "Sell Cow",
+        "type": "income",
+        "amount": 150000,
+        "id": 22
+    }, {
+        "name": "Upwork project",
+        "type": "income",
+        "amount": 15000,
+        "id": 23
     }
 ]
